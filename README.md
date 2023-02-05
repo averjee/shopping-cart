@@ -1,7 +1,9 @@
+## Instructions
+
 ```javascript
 
-/* Switch to node version 14.17.3 using nvm */
-nvm use 14.17.3
+/* Install node version 14.17.3 using nvm */
+nvm install 14.17.3
 
 /* Install the needed packages */
 npm install
